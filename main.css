@@ -10,6 +10,20 @@ strong {
   color: #837d88;
 }
 
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: none;
+}
+
 a {
+  text-decoration-line: none;
   color: #2d2641;
 }
+
+article {
+  background-color: #2d2641;
+}
+
